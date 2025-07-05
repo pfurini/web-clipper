@@ -1,4 +1,4 @@
-# Claude Code: The Perfect Development Loop | motlin.com
+# Claude Code: The Perfect Development Loop
 [Claude Code: The Perfect Development Loop | motlin.com](https://motlin.com/blog/claude-code-workflow-commands) 
 
  I've written two slash commands for Claude Code that form the core of my development workflow: `/todo` implements one task and `/commit` commits it.
