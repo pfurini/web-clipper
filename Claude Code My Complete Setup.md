@@ -1,9 +1,7 @@
 # Claude Code: My Complete Setup
-[Claude Code: My Complete Setup | motlin.com](https://motlin.com/blog/claude-code-setup) 
+[Claude Code: My Complete Setup | motlin.com](https://motlin.com/blog/claude-code-setup)
 
- [Claude Code: My Complete Setup | motlin.com](https://motlin.com/blog/claude-code-setup) 
-
- I spent a lot of time writing and tweaking my prompts, so I'm sharing what works for me.
+I spent a lot of time writing and tweaking my prompts, so I'm sharing what works for me.
 
 This is my complete Claude Code setup, broken down into three posts:
 
